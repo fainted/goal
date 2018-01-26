@@ -1,0 +1,2 @@
+# goal
+golang common library
